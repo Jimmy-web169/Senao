@@ -14,7 +14,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Jimmy-web169/SENAO.git
+   git clone https://github.com/Jimmy-web169/Senao.git
    ```
 
 2. Create a `.env` file in the root directory and add your environment variables OPENAI_API_KEY.
